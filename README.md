@@ -1,2 +1,2 @@
 # ALS---Recommendation-systems
-Just an extension of the previous repo 'Amazon reviews analysis' with code file for recommendation system - ALS in PySpark environment.
+Just an simple recommendation system using the Alternate Least Squared algorithm, which is an Matrix factorization alogorithm.
